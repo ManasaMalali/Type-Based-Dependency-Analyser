@@ -1,0 +1,173 @@
+
+  <Dependency_Table>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.h
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.cpp
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\itokcollection.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.h
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.h
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.h
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.cpp
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.h
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\itokcollection.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.h
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.cpp
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.cpp
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.cpp
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.h
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.cpp
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.h
+        </File>
+      </Value - Dependencies>
+    </Entry>
+    <Entry>
+      <Key>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.cpp
+      </Key>
+      <Value - Dependencies>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.cpp
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.h
+        </File>
+        <File>
+          C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.cpp
+        </File>
+      </Value - Dependencies>
+    </Entry>
+  </Dependency_Table>

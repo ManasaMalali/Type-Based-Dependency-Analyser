@@ -1,0 +1,62 @@
+
+  <Strongly Connected Components>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.cpp
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+      </File>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.cpp
+      </File>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.h
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.h
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\itokcollection.h
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.h
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.h
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.cpp
+      </File>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.h
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.cpp
+      </File>
+    </Strong Component>
+    <Strong Component>
+      <File>
+        C:\Users\manasa\Desktop\OOD\Project2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.cpp
+      </File>
+    </Strong Component>
+  </Strongly Connected Components>
